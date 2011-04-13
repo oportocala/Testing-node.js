@@ -1,1 +1,4 @@
 This is a remote repository i'm using to test out cloud 9 + node.js.
+
+Apparently you can run node js code directly from within Cloud9 IDE.
+It will hook you up with a server and everything.
